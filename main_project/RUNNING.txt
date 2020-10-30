@@ -29,9 +29,3 @@ After those are done:
 Note: If you are running this on a highly distributed cluster, running this set of commands should be faster.
 1. Run run_BlogCrawling_bloginfo.sh
 2. Run run_BlogCrawling_blognames.sh
-
-
-We currently have this running on a small server, so you can browse the web application here:
-   - Website style recommender: WebStyleGenerator.com/website
-   - Blog style recommender: WebStyleGenerator.com/blog
-
